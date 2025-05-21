@@ -1,7 +1,0 @@
-streamlit
-speechrecognition
-pyaudio
-gtts
-pydub
-google-generativeai
-ffmpeg
